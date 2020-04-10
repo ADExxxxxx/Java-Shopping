@@ -1,0 +1,67 @@
+body{
+    background: url("../img/ss.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.main_title{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+thead>tr>th{
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.total{
+    float: left;
+    color: red;
+    font-size: 28px;
+    display: inline;
+
+}
+tr>td{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 80px;
+}
+tr>td>a{
+    color: black;
+    text-decoration: none;
+}
+.bsubmit{
+    float: right;
+    width: 180px;
+    height: 60px;
+    background-color: rgb(240, 80, 80);
+    font-size: 28px;
+    line-height: 55px;
+    text-align: center;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.footer{
+    width: 100%;
+}
+
+.jiahao{
+    width: 40px;
+
+    height: 80px;
+    font-size: 30px;
+    margin: 0 10px 0 10px;
+}
+
+.jianhao{
+    width: 40px;
+
+    height: 80px;
+    font-size: 30px;
+    margin: 0 10px 0 10px;
+}
